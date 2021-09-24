@@ -1,4 +1,4 @@
-# FuryRoads
+# FurySkies
 Sample Unity 3D plane control game
 
 [Try it in the browser](https://play.unity.com/mg/other/webgl-builds-104260)
