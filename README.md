@@ -17,7 +17,7 @@ Sample Unity 3D plane control game
 
 ## Controls
 
-WD pitch (up/down)
+WS pitch (up/down)
 
 SPACE turbo
 
